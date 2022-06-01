@@ -32,6 +32,6 @@
  <img align="center" alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
  <img align="center" alt="Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 
-  <br>
+  <br/>
 
 Sempre em busca de melhorar, apaixonado por tecnologia e progamação.
